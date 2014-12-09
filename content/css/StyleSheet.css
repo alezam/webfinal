@@ -1,0 +1,10 @@
+﻿body {
+    background-color:beige;
+    align-content:center;
+}
+
+
+#im img {
+display: block;
+margin: auto;
+}
